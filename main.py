@@ -27,7 +27,10 @@ pergunta = """
 Dentre todas as universidades listadas, qual você recomenda para a 
 Ana desconsiderando as preferencias pessoais ou geograficas
 """
-# pergunta ="Gostaria que apresente uma lista de todas as universidades e suas localizações apenas"
+# pergunta = """ 
+# Gostaria que apresente uma lista de todas as universidades e suas 
+# localizações apenas 
+# """
 
 agente = AgenteOpenAIFUnctions()
 

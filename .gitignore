@@ -16,3 +16,6 @@ Thumbs.db
 
 # Ignorar README
 #README.md
+
+# Ignorar ambiente virtual
+venv-langchain2/

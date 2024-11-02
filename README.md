@@ -88,6 +88,14 @@ Estando com seu projeto pronto o ambiente virtual instalado e suasdependências 
 ```bash
 python main.py
 ```
+A pergunta é configurada no arquivo main.py da seguinte maneira
+
+<img src="/img/perguntas.png" alt="pergunta IA">
+
+Após realizado o comando teremos o seguinte resultado apresentado pela a IA que analisou dados de várias universidades, incluindo informações como país, critérios de seleção, cursos de destaque e perfil desejado para cada instituição. Com base nessas informações, a IA recomendou as universidades Stanford e Harvard para a estudante Ana. A recomendação foi feita considerando a excelência acadêmica e a diversidade de cursos de destaque dessas universidades, desconsiderando preferências pessoais ou geográficas da estudante.    
+
+<img src="/img/resposta ia.png" alt="resultado IA">
+
 
 ### Inscrições necessárias para utilização do projeto
 
